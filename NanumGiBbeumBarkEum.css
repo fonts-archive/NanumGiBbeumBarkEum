@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumGiBbeumBarkEum';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGiBbeumBarkEum/NanumGiBbeumBarkEum.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGiBbeumBarkEum/NanumGiBbeumBarkEum.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGiBbeumBarkEum/NanumGiBbeumBarkEum.ttf') format('truetype');
+}
